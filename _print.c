@@ -7,7 +7,6 @@ void print_buffer(char buffer[], int *buff_ind);
  * @format: format.
  * by me and my parnter
  * Return: Printed chars.
- * @precision: precision.
  *
  */
 int _printf(const char *format, ...)
